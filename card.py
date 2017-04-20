@@ -69,4 +69,4 @@ if(__name__=="__main__"):
         Card1.displayCard()
     else:
         print("Card 2 won")
-Card2.displayCard()
+    Card2.displayCard()
